@@ -1,1 +1,4 @@
-A
+For Win 
+
+Set-ExecutionPolicy -ExecutionPolicy ByPass -scope LocalMachine -Force
+
